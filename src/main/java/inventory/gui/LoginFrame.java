@@ -10,4 +10,5 @@ package inventory.gui;
  */
 public class LoginFrame {
     
+    
 }

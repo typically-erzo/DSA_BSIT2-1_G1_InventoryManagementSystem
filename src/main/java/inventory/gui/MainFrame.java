@@ -4,10 +4,16 @@
  */
 package inventory.gui;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author Ryan Joshua Refuerzo
  */
-public class MainFrame {
+
+public class MainFrame extends JFrame{
+    MainFrame(){
+        setSize(300, 300); 
+    }
     
 }
