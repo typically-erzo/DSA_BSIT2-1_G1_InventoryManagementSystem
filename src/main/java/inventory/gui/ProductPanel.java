@@ -10,7 +10,7 @@ public class ProductPanel extends JFrame{
         setSize(300,300);
         setLayout(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        //layout
+        //layout layout
     }
     
 }
