@@ -14,6 +14,7 @@ import javax.swing.JFrame;
 public class MainFrame extends JFrame{
     MainFrame(){
         setSize(300, 300); 
+        setLayout(null);
     }
     
 }
