@@ -1,13 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package inventory.main;
+import inventory.gui.LoginFrame;
 
-/**
- *
- * @author Ryan Joshua Refuerzo
- */
 public class Main {
     
+    public static void main(String[] args) {
+            LoginFrame frame = new LoginFrame();
+            frame.setVisible(true);       
+    }
 }
+
